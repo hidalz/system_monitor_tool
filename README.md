@@ -16,10 +16,10 @@ A Python application to monitor and log system resources including CPU usage, RA
 ## Installation
 
 1. Ensure Python 3.x is installed on your system.
-2. Install the `psutil` library using pip:
+2. Install the requirements using pip:
 
 ```bash
-pip install psutil
+pip install -r requirements.txt
 ```
 
 ## Usage
